@@ -16,3 +16,4 @@ The result file contains:
 - Top 10 longest requests
 - Top 10 requests that ended with a client error
 - Top 10 requests which ended with an error on the server side
+- All lines which invoked error while parsing
